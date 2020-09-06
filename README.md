@@ -1,5 +1,5 @@
-# Diary
-Diary is a web-based diary application. Its backend is implemented using Laravel, while the frontend relies on Vue.
+# Wiki
+Wiki is a web-based diary application. Its backend is implemented using Laravel, while the frontend relies on Vue.
 
 ## Configuration
 Please copy the .env.example file over to .env and specify APP_URL and DB-Connection details.
